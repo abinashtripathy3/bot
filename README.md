@@ -1,1 +1,1 @@
-# Ln2SQL-master-hospital
+python3 bot.py
